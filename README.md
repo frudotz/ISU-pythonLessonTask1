@@ -21,7 +21,7 @@ Aşağıdaki adımları izleyerek bir zaman yolculuğu hikayesi yazan Python pro
 Ek olarak siz de 2 yeni bilgi (değişken) ekleyin.
 ```
 
-### 🔗 Dosyaya ulaşmak için -> [Gorev-1.py](https://github.com/frudotz/ISU-pythonLessonTask1/blob/058f47de92292caeb6d5902a3c4d24de86794606/gorev1.py)  
+### 🔗 Dosyaya ulaşmak için -> [gorev1.py](https://github.com/frudotz/ISU-pythonLessonTask1/blob/058f47de92292caeb6d5902a3c4d24de86794606/gorev1.py)  
 
 
 ### 2️⃣ • Görev 2
@@ -37,7 +37,7 @@ Hitap şekli, abone numarası, tüketim dönemi, tüketim tutarı
 ```
 Sayın ... nolu abonemiz ............ dönemi faturanız ... TL’dir. Python Belediyesi  
 ```
-### 🔗 Dosyaya ulaşmak için -> [Gorev-2.py](https://github.com/frudotz/ISU-pythonLessonTask1/blob/058f47de92292caeb6d5902a3c4d24de86794606/gorev2.py)  
+### 🔗 Dosyaya ulaşmak için -> [gorev2.py](https://github.com/frudotz/ISU-pythonLessonTask1/blob/058f47de92292caeb6d5902a3c4d24de86794606/gorev2.py)  
 
 ### 3️⃣ • Görev 3
 
@@ -57,4 +57,4 @@ Liste: arabalar = ["BMW", "Mercedes", "Opel", "Toyota", "Renault", "Audi"]
 > - Listenin son elemanını silin.  
 > - Liste elemanlarını tersten yazdırınız.  
 
-### 🔗 Dosyaya ulaşmak için -> [Gorev-3.py](https://github.com/frudotz/ISU-pythonLessonTask1/blob/058f47de92292caeb6d5902a3c4d24de86794606/gorev2.py)  
+### 🔗 Dosyaya ulaşmak için -> [gorev3.py](https://github.com/frudotz/ISU-pythonLessonTask1/blob/058f47de92292caeb6d5902a3c4d24de86794606/gorev2.py)  
