@@ -57,4 +57,4 @@ Liste: arabalar = ["BMW", "Mercedes", "Opel", "Toyota", "Renault", "Audi"]
 > - Listenin son elemanını silin.  
 > - Liste elemanlarını tersten yazdırınız.  
 
-### 🔗 Dosyaya ulaşmak için -> [gorev3.py](https://github.com/frudotz/ISU-pythonLessonTask1/blob/058f47de92292caeb6d5902a3c4d24de86794606/gorev2.py)  
+### 🔗 Dosyaya ulaşmak için -> [gorev3.py](https://github.com/frudotz/ISU-pythonLessonTask1/blob/058f47de92292caeb6d5902a3c4d24de86794606/gorev3.py)  
